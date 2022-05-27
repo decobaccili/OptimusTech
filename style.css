@@ -7,8 +7,9 @@ body{
 }
 
 header{
+  width: 90%;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   margin: 30px auto;
   padding: 20px 0;
 }
@@ -16,6 +17,7 @@ header{
 .logo{
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .logo__img{
@@ -51,6 +53,7 @@ header{
 .menu__item:hover{
   color:#3a404e;
   cursor: pointer;
+  transition: 0.3s;
 }
 
 .login__list{
@@ -78,5 +81,40 @@ header{
   color: #fff;
   cursor: pointer;
   border-radius: 8px;
+  transition: 0.3s;
+}
 
+main{
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 30px auto;
+  padding: 20px 0;
+}
+
+.about{
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+  padding: 96px 0 96px 0;
+}
+
+.section__title{
+  color: #8E2424;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.section__subtitle{
+  color: #101828;
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.section__text{
+  color: #667085;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
 }

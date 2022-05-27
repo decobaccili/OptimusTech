@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Inter;
+}
+
+header{
+  display: flex;
+  justify-content: space-around;
+  margin: 30px auto;
+  padding: 20px 0;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+}
+
+.logo__img{
+  width: 30px;
+  height: 30px;
+  padding-right: 10px;
+}
+
+.logo__text{
+  font-size: 18px;
+  font-weight: 500;
+  color: #3a404e;
+}
+
+.menu__list{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  list-style: none;
+}
+
+.menu__item{
+  color: #667085;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  padding-top: 5px;
+  padding-right: 30px;
+  margin-right: 10px;
+}
+
+.menu__item:hover{
+  color:#3a404e;
+  cursor: pointer;
+}
+
+.login__list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  
+}
+
+.login__item{
+  color: #667085;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+.login__item:hover{
+  background-color: #8E2424;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 8px;
+
+}

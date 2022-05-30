@@ -195,7 +195,59 @@ main{
   height: 400px;
 }
 
+.position{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0 32px;
+  margin: 0 20%;
+  gap: 64px;
+}
 
+.position__box{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.position__box-title{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  color: #101828;
+}
+
+.position__content{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;  
+  padding: 10px 24px 28px 24px;
+  border: 1px solid #EAECF0;
+  border-radius: 16px;
+  width: 786px;
+  height: 136px;  
+}
+
+.position__title{
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #101828;
+}
+
+.position__data{
+  display: flex;
+  gap: 24px;
+}
+
+.position__data-tipe, .position__data-wage{
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #667085;
+}
 
 
 

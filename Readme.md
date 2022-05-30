@@ -2,7 +2,7 @@
 
 ## ![Logo of the project](logo.png)
 
-## OptimusTech - Website
+## PrimetTech - Website
 * This is a ++++++++ Website.
 
 
@@ -20,12 +20,12 @@ Here are the technologies used in this project.
 * Netlify
 
 ## Links
-  - Deploy on Netlify: 
-  - Repository: https://github.com/decobaccili/OptimusTech.git
+  - Deploy on Netlify: https://primettech.netlify.app/
+  - Repository: https://github.com/decobaccili/PrimetTech
 
 ## Template
 
-* https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1
+* https://www.figma.com/file/7FBFz1l6IVgkn9CBNlxiUL/7daysOfCode-HTML-CSS-(Copy)?node-id=0%3A9878
 
 ## Versioning
 

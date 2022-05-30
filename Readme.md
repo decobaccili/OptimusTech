@@ -1,4 +1,4 @@
-## ![Logo of the project](.png)
+## ![Logo of the project](logo.png)
 
 ## PrimetTech - Website
 * This is a ++++++++ Website.
@@ -36,4 +36,4 @@ Here are the technologies used in this project.
   Please follow github and join us!
   Thanks to visiting me and good coding!
 
-  ![PrimetTech website](.png)
+  ![PrimetTech website](preview.png)

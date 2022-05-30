@@ -1,5 +1,3 @@
-🚧***Under Construction***🚧
-
 ## ![Logo of the project](logo.png)
 
 ## PrimetTech - Website

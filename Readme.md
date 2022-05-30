@@ -1,7 +1,7 @@
 ## ![Logo of the project](logo.png)
 
 ## PrimetTech - Website
-* This is a ++++++++ Website.
+* This is a simple Landing Page chalenge proposed by Alura.
 
 
 ## Technology 
